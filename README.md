@@ -1,2 +1,65 @@
-# Projeto-galeria
+<h1 align="center"> Projeto Galeria de Fotos </h1>
+<p align="center"> - </p>
+
+<hr>
+
+<p align="center">
+ <a href="#status">Status</a> •
+ <a href="#demonstracao">Demonstração</a> • 
+ <a href="#funcionalidades">Funcionalidades</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#autor">Autor</a> •
+ <a href="#licença">Licença</a> 
+</p>
+<hr>
+
+<h4 id="status">🚧 STATUS - Galeria de Fotos ⏰ Finalizada!!... 🚧</h4>
+<hr>
+
+<h3 id="demonstracao">Demonstração</h3>
+
+<img src="" alt=""/>
+<br>
+<hr>
+
+<h3 id="funcionalidades"> Funcionalidades:</h3>
+
+- [x] -
+- [x] - 
+- [x] Responsivo
+<hr>
+
+
+
+<h3 id="tecnologias"> 🛠 Tecnologias </h3>
+Ferramentas utilizadas na construção do projeto:
+
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)<br>
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)<br>
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)<br>
+* [jQuery](https://jquery.com/)
+<hr>
+
+
+
+<h4 id="autor">Autor</h4>
+
+
+<a href="https://github.com/gustavomarim">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/66189039?s=400&u=491817b0d3a8d48be60c450631a950c9d49154b2&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Gustavo Dantas</b></sub></a> <a href="https://github.com/gustavomarim" title="GitHub">🚀</a>
+
+
+Feito com ❤️ por Gustavo Dantas 👋🏽
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/gustavodantasmarim/) 
+ [![Outlook Badge](https://img.shields.io/badge/-gustavo.dantas.marim@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.dantas.marim@outlook.com)](mailto:gustavo.dantas.marim@outlook.com)
+ 
+ 
+<hr>
+<h3 id="licença">Licença</h3>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gustavomarim/projeto-galeria/blob/master/LICENSE)
+
  
